@@ -5,7 +5,7 @@ Agent skills for interacting with websites built with [Halo](https://github.com/
 ## Installation
 
 ```bash
-npx skills add ruibaby/halo-skills
+npx skills add halo-sigs/halo-skills
 ```
 
 ## Usage
