@@ -1,5 +1,7 @@
 # halo-skills
 
+Deprecated，See https://github.com/halo-dev/cli
+
 Agent skills for interacting with websites built with [Halo](https://github.com/halo-dev/halo), an open-source CMS.
 
 ## Installation
